@@ -1,4 +1,30 @@
+
+h1 {
+    text-align: center;
+        color: white;
+        font-size:75px;
+            padding: 150px
+}
 body
 {
-   backgroud-color:burgundy;
+   background-color:maroon;
+    font-family:fantasy;
+        background-image: url("https://cdn.pixabay.com/photo/2015/09/09/18/43/food-932463_960_720.jpg");
+            background-repeat:no-repeat;
+            background-size: 280px auto;
+            : 150px;
+            background-position: top
+    background-image: url("https://www.maxpixel.net/static/photo/1x/Refreshment-Food-Sugar-Donut-Muffin-Dessert-3326955.jpg");
+            background-position:top
+}
+table, th, td
+{
+    color:white;
+        font-size:30px;
+    letter-spacing:1px;
+    border: 2px solid lightblue;
+}
+    /* mouse over link */
+a:hover{
+    color: aqua
 }
